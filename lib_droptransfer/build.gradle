@@ -38,5 +38,6 @@ dependencies {
     androidTestImplementation libs.androidx.junit
     androidTestImplementation libs.androidx.espresso.core
 
-    implementation 'com.blankj:utilcodex:1.31.1'
+
+    compileOnly('com.blankj:utilcodex:1.31.1')
 }
