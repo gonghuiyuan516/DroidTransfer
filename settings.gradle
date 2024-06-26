@@ -8,7 +8,6 @@ dependencyResolutionManagement {
         maven { url "https://www.jitpack.io" }
         google()
         mavenCentral()
-        jcenter() // Warning: this repository is going to shut down soon
     }
 }
 rootProject.name = "DroidTransfer"
